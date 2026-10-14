@@ -1,4 +1,4 @@
-# Evercode backand fast track task
+# backand fast track task
 
 backend-сервис для отслеживания и агрегации цен криптовалют с использованием CoinMarketCap API
 
