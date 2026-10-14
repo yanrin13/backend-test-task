@@ -56,7 +56,7 @@ npm -v
 ## Клонирование проекта
 
 ```bash
-git clone https://github.com/yanrin13/fast-track-evercodelab.git
+git clone https://github.com/yanrin13/backend-test-task
 cd fast-track-evercodelab
 ```
 
